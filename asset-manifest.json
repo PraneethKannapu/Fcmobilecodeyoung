@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fcmobilecodeyoung/static/css/main.dadc65b0.css",
+    "main.js": "/Fcmobilecodeyoung/static/js/main.28f721e5.js",
+    "static/js/453.ad199656.chunk.js": "/Fcmobilecodeyoung/static/js/453.ad199656.chunk.js",
+    "static/media/logo.svg": "/Fcmobilecodeyoung/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Fcmobilecodeyoung/index.html",
+    "main.dadc65b0.css.map": "/Fcmobilecodeyoung/static/css/main.dadc65b0.css.map",
+    "main.28f721e5.js.map": "/Fcmobilecodeyoung/static/js/main.28f721e5.js.map",
+    "453.ad199656.chunk.js.map": "/Fcmobilecodeyoung/static/js/453.ad199656.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dadc65b0.css",
+    "static/js/main.28f721e5.js"
+  ]
+}
